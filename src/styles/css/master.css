@@ -1,0 +1,20 @@
+
+.button-simple {
+  min-width: 50px;
+  margin: 0px 10px 0px 10px;
+  display: inline-block;
+}
+
+
+/*
+.numberChange {
+	border: 1px solid green;
+	width: 300px;
+}
+*/
+.numberChange-text {
+	display: inline-block;
+	min-width: 150px;
+	border: 1px dashed #8888;
+	text-align: center;
+}
